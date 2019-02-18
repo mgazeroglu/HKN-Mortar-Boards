@@ -8,3 +8,15 @@ Next time:
 Install CCS and XCTU
 Setup Git and create branches
 Configure radios to communicate
+
+
+2/18/19
+Colin, Max
+Max setup Github and is waiting to join
+Max installed XCTU
+Were able to get two radios to run a sucessful distance check!!! (see video for settings)
+
+Next Time:
+Try to make the radios communicate with each other using UART
+Max can bring his XMEGA from uP to test UART on radios (more familiar than MSP430 for now)
+Get Juan to setup Github and install XCTU
