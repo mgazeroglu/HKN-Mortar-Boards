@@ -21,3 +21,13 @@ Next Time:
 Try to make the radios communicate with each other using UART
 Max can bring his XMEGA from uP to test UART on radios (more familiar than MSP430 for now)
 Get Juan to setup Github and install XCTU
+
+2/19/19
+Max, Juan
+Max explained the overview of the project and prior efforts; Juan downloaded XCTU
+Max unsuccessfully attempted to have two ZigBees communicate with each other through a microcontroller
+Juan investigated the required power consumption of each node and corresponding battery sizes and prices
+
+Next Time:
+Further work on microcontroller Zigbee communication
+Determining LED quanity and type to minimize price and power and maximize luminosity, and corresponding battery
